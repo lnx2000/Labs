@@ -2,7 +2,6 @@
 """
 	LP1_AIR_B1_41403.ipynb
 """
-
 class Node:
     def __init__(self,data,level,fval):
         """ Initialize the node with the data, level of the node and the calculated fvalue """
